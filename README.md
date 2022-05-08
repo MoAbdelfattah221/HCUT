@@ -1,4 +1,4 @@
 # HCUT
-This is a Responsive Header For HairCut Store.
-Technologies used.. 
+This is a Responsive Website Header For a Haircut Store.
+Technologies used..
 Html , CSS
